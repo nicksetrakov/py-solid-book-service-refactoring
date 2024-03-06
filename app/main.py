@@ -1,5 +1,5 @@
 from app.book import Book
-from app.display import DisplayBookConsole, DisplayBookReverse
+from app.displays import DisplayBookConsole, DisplayBookReverse
 from app.serializers import SerializerBookJson, SerializerBookXml
 from app.printers import PrintBookConsole, PrintBookReverse
 
